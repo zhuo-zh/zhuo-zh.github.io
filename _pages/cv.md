@@ -17,7 +17,7 @@ Education
 Research experience
 ======
 * Design and Implementation of a Blink Detection Circuit Based on the Inter-frame Difference Method
-  * Undergraduate Thesis Project | Dec. 2023 – Jun. 2024
+  * Undergraduate Thesis Project, Dec. 2023 – Jun. 2024
   * Developed a hardware-based blink detection system to address fatigue driving by monitoring blink frequency in real-time.
   * Researched and optimized the inter-frame difference algorithm for low-latency hardware acceleration.
   * Designed the complete digital logic in Verilog and performed functional simulations to ensure timing closure.
@@ -26,7 +26,7 @@ Research experience
   * Supervisor: Yu Liu
 
 * Design of a 5-Stage Pipelined Processor Based on RISC-V Architecture
-  * Digital System Design Project | Dec. 2022 – Jan. 2023
+  * Digital System Design Project, Dec. 2022 – Jan. 2023
   * Designed and verified a synthesizable 32-bit pipelined CPU supporting R, I, S, U, and J-type instruction sets.
   * Developed a standard 5-stage pipeline architecture (IF, ID, EXE, MEM, WB) using Verilog.
   * Implemented core modules including the Instruction/Data Memory, ALU, Register File, and Control Unit.
@@ -35,9 +35,9 @@ Research experience
 
 Honors and Awards
 ======
-* First-class Academic Scholarship (awarded to top 5%), XUPT, 2021 – 2023
-* First Prize, National Mathematics Competition for College Students (National Level), 2023
-* Second Prize, National English Competition for College Students (National Level), 2022
+* First-class Academic Scholarship, XUPT, 2021 – 2023
+* First Prize, National Mathematics Competition for College Students, 2023
+* Second Prize, National English Competition for College Students, 2022
 * Outstanding Volunteer, 2021
   
 Skills
@@ -46,8 +46,8 @@ Skills
   * HDL: Verilog
   * Languages: Python, C/C++, Tcl
 * Digital IC Design
-  * Simulation/Verification: Mentor Graphics ModelSim, HSpice
+  * Simulation: Mentor Graphics ModelSim, HSpice
   * Synthesis & Timing: Synopsys Design Compiler, PrimeTime 
-  * Implementation (P&R): Cadence Innovus
+  * Implementation: Cadence Innovus
 * FPGA Development
   * Xilinx Vivado
