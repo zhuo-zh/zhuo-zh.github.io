@@ -10,4 +10,4 @@ I am currently an M.S. student majoring in Integrated Circuit Engineering at the
 
 My current research interests are chiplet design and advanced package design.
 
-I received my B.S. degree in Integrated Circuit Design and Integrated Systems from Xi'an University of Posts and Telecommunications (XUPT). My undergraduate thesis, titled "Design and Implementation of Blink Detection Circuit Based on Inter-frame Difference Method," was awarded the Outstanding Graduation Project.
+I received my Bachelor of Engineering degree in Integrated Circuit Design and Integrated Systems from Xi'an University of Posts and Telecommunications (XUPT). My undergraduate thesis, titled "Design and Implementation of Blink Detection Circuit Based on Inter-frame Difference Method," was awarded the Outstanding Graduation Project.
